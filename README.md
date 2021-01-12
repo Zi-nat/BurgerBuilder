@@ -4,7 +4,7 @@ Motivation:
 
 - **Learning React** in a comfortable and feature-rich development environment.
 - **Starting new single-page React applications.**
-- **Creating examples** with React for your libraries and components.
+- **Creating examples** with React for my libraries and components.
 
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
