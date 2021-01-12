@@ -1,0 +1,35 @@
+.Burger{
+    width: 100%;
+    margin: auto;
+    height: 250px;
+    overflow: scroll;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+/*mobile config ti see if we have less than 350px or even worked vertivaly*/
+@media (main-width: 500px) and (main-height: 400px){
+    /*Burger will be tweacked*/
+       .Burger {
+           width: 350px;
+           height: 300px;
+       }
+}
+
+/*mobile config ti see if we have less than 500px or even worked vertivaly*/
+@media (main-width: 500px) and (main-height: 401px){
+    /*Burger will be tweacked*/
+       .Burger {
+           width: 450px;
+           height: 400px;
+       }
+}
+/*mobile config ti see if we have less than 1000px or even worked vertivaly*/
+@media (main-width: 1000px) and (main-height: 700px){
+ /*Burger will be tweacked*/
+    .Burger {
+        width: 700px;
+        height: 600px;
+    }
+}
