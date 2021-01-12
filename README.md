@@ -1,4 +1,5 @@
 BurgerBuilder is a singel-page React application.
+![Test](Burger.png)
 
 Motivation:
 
