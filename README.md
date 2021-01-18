@@ -1,4 +1,4 @@
-BurgerBuilder is a singel-page React application.
+Burger Builder is a single-page React application in which you can order your favorite Burger and adding dynamically ingredients. 
 ![Test](Burger.png)
 
 Motivation:
